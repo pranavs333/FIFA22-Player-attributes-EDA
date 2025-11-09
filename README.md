@@ -44,5 +44,3 @@ It fulfills all academic project requirements — including cleaning, EDA, visua
 - Include **player potential and market value** for career trend analysis.  
 - Create **interactive dashboards** using Plotly or Power BI.  
 - Integrate **team-level performance data** for deeper insights.
-
-## 📂 Repository Structure
